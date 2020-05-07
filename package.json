@@ -4,11 +4,12 @@
   "description": "simple js work",
   "main": "script.js",
   "dependencies": {
-    "lite-server": "2.5.4",
     "light-server": "2.6.4",
     "minimist": "1.2.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "lite-server": "2.5.4"
+  },
   "scripts": {
     "test": "mocha"
   },
